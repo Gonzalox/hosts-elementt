@@ -32,7 +32,7 @@
 	<li>Seleccionar <strong>Copia de seguridad</strong>.</li>
 	<li>Seleccionar <strong>URL de descarga del archivo hosts</strong>.</li>
 	<li>Eliminar la URL existente y agregar&nbsp;https://raw.githubusercontent.com/Gonzalox/hosts-elementt/master/hosts</li>
-	<li><em>(Opcional, puedes pasar al paso 8)</em> Si quieres un bloqueo que,&nbsp;adem&aacute;s de bloquear la publicidad y el malware espec&iacute;fico del Element Flash II, tambi&eacute;n bloquee la mayor&iacute;a de la publicidad en internet puedes usar la siguiente URL en reemplazo de la anterior:&nbsp;https://raw.githubusercontent.com/Gonzalox/hosts-elementt/master/full/hosts <span style="color:#FF0000;"><strong>(NUEVO)</strong></span></li>
+	<li><em>(Opcional, puedes pasar al paso 8)</em> Si quieres un bloqueo que,&nbsp;adem&aacute;s de bloquear la publicidad y el malware espec&iacute;fico del Element Flash II, tambi&eacute;n bloquee la mayor&iacute;a de la publicidad en internet puedes usar la siguiente URL en reemplazo de la anterior:&nbsp;https://raw.githubusercontent.com/Gonzalox/hosts-elementt/master/full/hosts <strong>(NUEVO)</strong></li>
 	<li>Verifica que la URL que ingresaste est&aacute; correcta.</li>
 	<li>Selecciona <strong>Aceptar</strong>.</li>
 	<li>Selecciona <strong>Descargar archivo hosts</strong>.</li>
