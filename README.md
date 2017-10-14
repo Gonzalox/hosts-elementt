@@ -60,6 +60,8 @@
 	<li>El gasto de bater&iacute;a puede aumentar debido a los procesos de NetGuard, el cual requiere crear un VPN local que siempre est&aacute; funcionando en segundo plano. Si utilizas la aplicaci&oacute;n exactamente igual a esta gu&iacute;a&nbsp;el&nbsp;gasto no deber&iacute;a ser tan considerable ya que no ocupa el resto de las funciones que involucra un uso m&aacute;s intensivo.</li>
 </ul>
 
+<h2>M&aacute;s informaci&oacute;n</h2>
+
 <h3>Bugs</h3>
 
 <ul>
