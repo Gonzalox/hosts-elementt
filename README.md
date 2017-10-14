@@ -8,6 +8,8 @@
 
 <h2>Gu&iacute;a de instalaci&oacute;n</h2>
 
+<p><strong>Importante,&nbsp;descargo de responsabilidad: No me hago responsable por los da&ntilde;os o efectos que pueda tener este procedimiento en el software o hardware de tu equipo. Hazlo bajo tu propia responsabilidad.</strong></p>
+
 <h3>Requerimientos</h3>
 
 <ul>
