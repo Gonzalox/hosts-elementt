@@ -1,0 +1,70 @@
+# ===============================================================
+# Hosts for Elementt Phone ES_F661 ESF661COCA1 by Gonzalox
+# Homepage: https://github.com/Gonzalox/hosts-elementt
+# Lastest version available: https://github.com/Gonzalox/hosts-elementt/hosts
+# 14-10-2017
+# ===============================================================
+
+#gstore
+0.0.0.0 click.mobiuppedmedia.com
+0.0.0.0 play.leadzu.com
+
+#systemui
+0.0.0.0 ufz.doesxyz.com
+0.0.0.0 ufz.massarm.com
+0.0.0.0 ufz.massbow.com
+0.0.0.0 ufz.masscow.com
+
+#tbrowser
+0.0.0.0 www.admobimaster.com
+0.0.0.0 spidize.com
+0.0.0.0 obeyter.com
+0.0.0.0 free.opo.host
+0.0.0.0 wwepor.pw
+0.0.0.0 play.leadzuaf.com
+0.0.0.0 www.zfrdxjz.com
+
+#settings
+0.0.0.0 api.salmonads.com
+0.0.0.0 net.salmonads.com
+
+#browser
+0.0.0.0 alog.umeng.com
+0.0.0.0 wken.notibrowser.com
+
+#android.config.service
+0.0.0.0 log.diggoods.com
+0.0.0.0 adbsc.krmobi.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 ib.adnxs.com
+0.0.0.0 afftrack.passionteck.com
+0.0.0.0 cw.addthis.com
+0.0.0.0 p.univide.com
+0.0.0.0 aptrk.com
+0.0.0.0 trk.appthis.io
+0.0.0.0 duclick.baidu.com
+0.0.0.0 clinkadtracking.com
+0.0.0.0 ads.krmobi.com
+0.0.0.0 t.api.yyapi.net
+0.0.0.0 tracking.sumatoad.com
+
+#mediatek
+0.0.0.0 www.tonhorn.net
+0.0.0.0 www.tonhornup.com
+0.0.0.0 mepodownload.mediatek.com
+0.0.0.0 server-52-84-170-207.gru50.r.cloudfront.net
+0.0.0.0 ec2-35-162-49-77.us-west-2.compute.amazonaws.com
+0.0.0.0 bus.dominoppo.club
+
+#212.92.39.34
+0.0.0.0 captumlz.com
+0.0.0.0 damelolz.com
+0.0.0.0 hipstlz.com
+0.0.0.0 leadzufb.com
+0.0.0.0 newsonlinelz.com
+0.0.0.0 publinoticiaslz.com
+0.0.0.0 sexylz.com
+0.0.0.0 singonaslz.com
+0.0.0.0 videosrealeslz.com
+0.0.0.0 videosreallz.com
+0.0.0.0 leadzu.com
