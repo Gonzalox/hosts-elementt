@@ -33,12 +33,24 @@
 0.0.0.0 api.salmonads.com
 0.0.0.0 net.salmonads.com
 
+#mediaproxy
+0.0.0.0 cdn3.myapkcdn.in
+0.0.0.0 i3.myapkcdn.in
+0.0.0.0 sdk.asense.in
+0.0.0.0 api.napiservice.com
+0.0.0.0 n.natureapi.com
+
 #browser
 0.0.0.0 alog.umeng.com
 0.0.0.0 wken.notibrowser.com
 
 #android.config.service
-0.0.0.0 log.diggoods.com
+0.0.0.0 ah.ballertrack.com
+0.0.0.0 cp.amadlafd.com
+0.0.0.0 c.appbuddyxchange.com
+0.0.0.0 click.startappservice.com
+0.0.0.0 got.pubnative.net
+0.0.0.0 log.diggoods.codm
 0.0.0.0 adbsc.krmobi.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 ib.adnxs.com
