@@ -39,6 +39,8 @@
 0.0.0.0 sdk.asense.in
 0.0.0.0 api.napiservice.com
 0.0.0.0 n.natureapi.com
+0.0.0.0 s.nativeload.com
+0.0.0.0 ec2-54-169-134-231.ap-southeast-1.compute.amazonaws.com
 
 #browser
 0.0.0.0 alog.umeng.com
