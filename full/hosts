@@ -1,7 +1,7 @@
 # ===============================================================
 # Hosts for Elementt Phone ES_F661 ESF661COCA1 by @Gonzalox
 # Homepage: https://github.com/Gonzalox/hosts-elementt
-# 14-10-2017
+# 16-10-2017
 # ===============================================================
 
 #gstore
@@ -20,6 +20,14 @@
 0.0.0.0 ufz.masscow.com
 
 #tbrowser
+0.0.0.0 unicorbott.com
+0.0.0.0 traffic.tc-clicks.com
+0.0.0.0 overtraff.com
+0.0.0.0 trace.sm4link.com
+0.0.0.0 oc.slimcdn.com
+0.0.0.0 dtrk.slimcdn.com
+0.0.0.0 fun.wallofmobi.com
+0.0.0.0 www.bestphoneapps.mobi
 0.0.0.0 js.users.51.la
 0.0.0.0 www.peachtrk.com
 0.0.0.0 web.users.51.la
@@ -43,6 +51,7 @@
 0.0.0.0 net.salmonads.com
 
 #mediaproxy
+0.0.0.0 ip.phangbang.com
 0.0.0.0 su.tbt.li
 0.0.0.0 cdn3.myapkcdn.in
 0.0.0.0 i3.myapkcdn.in

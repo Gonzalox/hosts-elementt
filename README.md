@@ -3,7 +3,7 @@
 <p>Este repositorio contiene archivos hosts que est&aacute;n creados con el prop&oacute;sito de bloquear la publicidad que aparece repentinamente en el tel&eacute;fono Elementt Flash II vendido exclusivamente en Chile y que afecta el uso cotidiano del dispositivo.​​</p>
 
 <ul>
-	<li>&Uacute;ltima actualizaci&oacute;n: <strong>14-10-2017</strong></li>
+	<li>&Uacute;ltima actualizaci&oacute;n: <strong>16-10-2017</strong></li>
 </ul>
 
 <h2>Gu&iacute;a de instalaci&oacute;n</h2>
